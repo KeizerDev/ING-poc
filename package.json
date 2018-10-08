@@ -1,0 +1,9 @@
+{
+  "name": "ING-POC",
+  "version": "1.0.0",
+  "description": "Project voor de Hogeschool Utrecht.",
+  "main": "index.js",
+  "repository": "git@github.com:KeizerDev/ING-poc.git",
+  "author": "Sem Bogaarts <sembogaarts@gmail.com>",
+  "license": "MIT"
+}
