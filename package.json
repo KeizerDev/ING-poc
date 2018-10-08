@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:KeizerDev/ING-poc.git",
   "author": "Sem Bogaarts <sembogaarts@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
 }
